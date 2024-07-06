@@ -1,0 +1,16 @@
+a=10
+b=20
+
+print("Welcome to Simple calculator: \n")
+
+sum=a + b
+mul=a * b
+subt= b - a
+div= b / a
+
+print ("Sum is: ", sum)
+print ("Multiplication is: ", mul)
+print ("Subtraction is: ", subt)
+print ("Division is: ", div)
+
+print("BYE!!")
